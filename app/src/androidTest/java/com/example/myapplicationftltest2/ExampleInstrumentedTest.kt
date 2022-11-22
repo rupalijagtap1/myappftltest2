@@ -33,5 +33,10 @@ class ExampleInstrumentedTest {
         assert(true)
     }
 
+    @Test
+    fun passingTest3(){
+        assert(true)
+    }
+
   
 }
